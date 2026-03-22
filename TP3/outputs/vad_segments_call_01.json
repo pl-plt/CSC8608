@@ -1,0 +1,25 @@
+{
+  "audio_path": "TP3/data/call_01.wav",
+  "sample_rate": 16000,
+  "duration_s": 25.04,
+  "min_segment_s": 0.3,
+  "segments": [
+    {
+      "start_s": 0.61,
+      "end_s": 5.886
+    },
+    {
+      "start_s": 6.21,
+      "end_s": 10.942
+    },
+    {
+      "start_s": 11.234,
+      "end_s": 24.83
+    }
+  ],
+  "stats": {
+    "num_segments": 3,
+    "total_speech_s": 23.604,
+    "speech_ratio": 0.9426517571884984
+  }
+}

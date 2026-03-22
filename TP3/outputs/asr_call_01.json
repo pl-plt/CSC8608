@@ -1,0 +1,29 @@
+{
+  "audio_path": "TP3/data/call_01.wav",
+  "model_id": "openai/whisper-tiny",
+  "device": "cpu",
+  "audio_duration_s": 25.04,
+  "elapsed_s": 7.036161184310913,
+  "rtf": 0.2809968524085828,
+  "segments": [
+    {
+      "segment_id": 0,
+      "start_s": 0.61,
+      "end_s": 5.886,
+      "text": "Hello, thank you for calling customers. Support my name is Thelex, and I will help."
+    },
+    {
+      "segment_id": 1,
+      "start_s": 6.21,
+      "end_s": 10.942,
+      "text": "You today, I am calling about an order that arrived, damaged the package was delivered."
+    },
+    {
+      "segment_id": 2,
+      "start_s": 11.234,
+      "end_s": 24.83,
+      "text": "Yesterday, but the screen is cracking. I would like a refund or a replacement as soon as possible. The order number is up so that you can reach me at john.smith.example.com also. My phone. Number is to thank you."
+    }
+  ],
+  "full_text": "Hello, thank you for calling customers. Support my name is Thelex, and I will help. You today, I am calling about an order that arrived, damaged the package was delivered. Yesterday, but the screen is cracking. I would like a refund or a replacement as soon as possible. The order number is up so that you can reach me at john.smith.example.com also. My phone. Number is to thank you."
+}
